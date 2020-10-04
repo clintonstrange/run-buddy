@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://clintonstrange.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Clint Strange
+
+### &#169 Run Buddy, Inc 
