@@ -12,5 +12,3 @@ https://clintonstrange.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Clint Strange
-
-### © Run Buddy, Inc 
